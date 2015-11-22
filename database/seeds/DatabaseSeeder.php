@@ -1,6 +1,6 @@
 <?php
 
-use CodeProject\Client;
+use CodeProject\Entities\Client;
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;
 
