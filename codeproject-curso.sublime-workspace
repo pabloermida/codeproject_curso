@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"numSlide"
+			],
+			[
+				"lig",
+				"lightSlider"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"stat",
+				"status_code"
+			],
+			[
+				"stau",
+				"status_code"
+			],
+			[
+				"searc",
+				"search_web"
+			],
+			[
+				"ext",
+				"extension"
+			],
+			[
+				"min",
+				"minlength"
+			],
+			[
+				"S3_",
+				"S3_URL_BUCKET"
+			],
+			[
+				"curr",
+				"currentId"
+			],
+			[
+				"imgPr",
+				"id='imgPreview"
+			],
+			[
+				"insp",
+				"inspaedia_try"
+			],
+			[
+				"Co",
+				"Cookie"
+			],
+			[
+				"lang",
+				"languageId"
+			],
+			[
+				"langu",
+				"language_id"
+			],
+			[
+				"go",
+				"goToId"
+			],
+			[
+				"goto",
+				"goToId	(tl.blade.php)"
+			],
+			[
+				"got",
+				"goToEnd"
+			],
+			[
+				"sty",
+				"style	(app.css)"
+			],
+			[
+				"t",
+				"title	Attr"
+			],
+			[
+				"current",
+				"currentNode"
+			],
+			[
+				"transl",
+				"translateOffsetX"
+			],
+			[
+				"jit",
+				"jitCanvas"
+			],
+			[
+				"sca",
+				"scaleOffsetX"
+			],
+			[
+				"of",
+				"offsetX"
+			],
+			[
+				"zoo",
+				"zoomLevel"
+			],
+			[
+				"z",
+				"zoomLimit"
+			],
+			[
+				"zoom",
+				"zoomingDefault"
+			],
+			[
+				"Zoom",
+				"zoomLimit"
+			],
+			[
+				"zo",
+				"zoomLevel"
+			],
+			[
+				"zom",
+				"zooming"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"if",
+				"if	<?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"new",
+				"new_image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pavk",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Snippet: html"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Project/Code/codeproject_curso"
+	],
+	"file_history":
+	[
+		"/C/Project/Code/inspaedia/resources/views/app.blade.php",
+		"/C/Project/Code/inspaedia/app/Http/Controllers/UserController.php",
+		"/C/Project/Code/inspaedia/app/User.php",
+		"/C/Project/Code/inspaedia/app/Http/routes.php",
+		"/C/Project/Code/inspaedia/public/css/app.css",
+		"/C/Project/Code/inspaedia/resources/views/home.blade.php",
+		"/C/Project/Code/inspaedia/app/Content.php",
+		"/C/Project/Code/inspaedia/app/Http/Controllers/SearchController.php",
+		"/C/Project/Code/inspaedia/public/js/common.js",
+		"/C/Project/Code/inspaedia/public/css/lightslider.css",
+		"/C/Project/Code/inspaedia/app/Trail.php",
+		"/C/Project/Code/inspaedia/app/ContentRelation.php",
+		"/C/Project/Code/inspaedia/resources/views/map.blade.php",
+		"/C/Project/Code/inspaedia/resources/views/app2.blade.php",
+		"/C/Project/Code/inspaedia/public/manager/scripts/content-controller.php",
+		"/C/Project/Code/inspaedia/public/manager/scripts/content-edit.php",
+		"/C/Project/Code/inspaedia/public/manager/inc/classes/Messages.php",
+		"/C/Project/Code/inspaedia/public/manager/inc/common.php",
+		"/C/Project/Code/inspaedia/public/manager/scripts/content-list.php",
+		"/C/Project/Code/inspaedia/public/manager/inc/classes/Upload.php",
+		"/C/Project/Code/inspaedia/public/manager/inc/classes/DBH.php",
+		"/C/Project/Code/inspaedia/public/js/timeline/timeline.js",
+		"/C/Project/Code/inspaedia/public/manager/inspaedia/index.html",
+		"/C/Project/Code/inspaedia/public/start/index.html",
+		"/C/Project/Code/inspaedia/public/manager/index.html",
+		"/C/Project/Code/inspaedia/public/manager/teste.php",
+		"/C/Project/Code/inspaedia/public/manager/custom/config_local.php",
+		"/C/Project/Code/inspaedia/public/manager/custom/config_des.php",
+		"/C/Project/Code/inspaedia/public/manager/custom/config_pro.php",
+		"/C/Project/Code/inspaedia/public/manager/inc/s3.php",
+		"/C/Project/Code/inspaedia/public/manager/assets/js/jquery.backTop.js",
+		"/C/Project/Code/inspaedia/public/manager/assets/js/validate/jquery.validate.js",
+		"/C/Project/Code/inspaedia/public/manager/scripts/i_footer.php",
+		"/C/Project/Code/inspaedia/public/manager/assets/css/style.css",
+		"/C/Project/Code/inspaedia/public/manager/assets/js/common-scripts.js",
+		"/C/Project/Code/inspaedia/public/manager/assets/js/bootstrap-notify.min.js",
+		"/C/Project/Code/inspaedia/public/manager/scripts/i_header.php",
+		"/C/Project/Code/inspaedia/public/manager/s3/start.php",
+		"/C/Project/Code/inspaedia/public/manager/composer.json",
+		"/C/Project/Code/inspaedia/public/manager/custom/aws.phar",
+		"/C/Project/Code/inspaedia/public/manager/scripts/dashboard.php",
+		"/C/Project/Code/inspaedia/public/manager/compose.json",
+		"/C/Project/Code/inspaedia/public/manager/start.php",
+		"/C/Project/Code/inspaedia/public/manager/scripts/user-edit.php",
+		"/C/Project/Code/inspaedia/public/manager/scripts/user-controller.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_08_10_192346_create_trail_table.php",
+		"/C/Project/Code/inspaedia/public/manager/scripts/tag-controller.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_09_28_142551_content_images_table.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_05_140911_add_fkey_user_content.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_163714_add_fkey_tag_translation.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_163657_add_fkey_tag_relation.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_151706_add_fkey_content_translation.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_154740_add_fkey_content_relation.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_155218_add_fkey_content_tag_relation.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_145841_add_emailunique_users.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_140052_add_pkey_countries.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_140801_add_fkey_users.php",
+		"/C/Project/Code/inspaedia/app/Http/Middleware/Language.php",
+		"/C/Project/Code/inspaedia/app/Http/Controllers/Auth/AuthController.php",
+		"/C/Project/Code/inspaedia/database/migrations/2015_11_04_135726_add_pkey_users.php",
+		"/C/Project/Code/inspaedia/app/Http/Controllers/WelcomeController.php",
+		"/C/Project/Code/inspaedia/resources/lang/pt/messages.php",
+		"/C/Project/Code/inspaedia/resources/lang/en/messages.php",
+		"/C/Project/Code/inspaedia/config/constants.php",
+		"/C/Project/Code/inspaedia/storage/logs/laravel-2015-11-03.log",
+		"/C/Project/Code/inspaedia/storage/logs/laravel-2015-11-02.log",
+		"/C/Project/Code/inspaedia/app/ContentTranslation.php",
+		"/C/Project/Code/inspaedia/app/Language.php",
+		"/C/Project/Code/inspaedia/public/css/typeahead.css",
+		"/C/Project/Code/inspaedia/public/js/jit/example.js",
+		"/C/Project/Code/inspaedia/resources/views/timeline.blade.php",
+		"/C/Project/Code/inspaedia/resources/views/tl.blade.php",
+		"/C/Project/Code/inspaedia/vendor/laravel/framework/src/Illuminate/Translation/Translator.php",
+		"/C/Project/Code/inspaedia/resources/views/inicio.blade.php",
+		"/C/Project/Code/inspaedia/public/css/typeahead2.css",
+		"/C/Project/Code/inspaedia/app/Map.php",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Project/Code/inspaedia/public/js/jit/jit.js",
+		"/C/Project/Code/inspaedia/resources/assets/less/bootstrap/buttons.less",
+		"/C/Project/Code/inspaedia/resources/assets/less/bootstrap/bootstrap.less",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Project/Code/inspaedia/public/css/jit.css",
+		"/C/Project/Code/inspaedia/public/css/jit/radial_base.css",
+		"/C/Project/Code/inspaedia/resources/views/auth/login.blade.php",
+		"/C/Project/Code/inspaedia/resources/lang/pt/menu.php",
+		"/C/Project/Code/inspaedia/resources/lang/en/menu.php",
+		"/C/Project/Code/inspaedia/app/Tag.php",
+		"/C/Project/Code/inspaedia/app/Http/Controllers/HomeController.php",
+		"/C/Project/Code/inspaedia/app/TagRelation.php",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Project/Code/inspaedia/.gitignore",
+		"/C/Project/Code/inspaedia/config/app.php",
+		"/C/Project/Code/inspaedia/config/filesystems.php",
+		"/C/Project/Code/inspaedia/public/css/component.css",
+		"/C/Project/Code/inspaedia/resources/views/app3.blade.php",
+		"/C/xampp/htdocs/teste/index.html",
+		"/C/Users/Pablo/Desktop/index.html",
+		"/C/xampp/htdocs/inspaedia/public/css/typeahead.css",
+		"/C/xampp/htdocs/inspaedia/public/css/jit/examples.css",
+		"/C/Users/Pablo/Desktop/menu/index.htm",
+		"/C/xampp/htdocs/inspaedia/resources/views/inicio.blade.php",
+		"/C/xampp/htdocs/inspaedia/resources/views/app3.blade.php",
+		"/C/xampp/htdocs/inspaedia/app/Http/routes.php",
+		"/C/xampp/htdocs/inspaedia/resources/views/app2.blade.php",
+		"/C/xampp/htdocs/inspaedia/resources/views/app.blade.php",
+		"/C/xampp/htdocs/inspaedia/resources/views/map2.blade.php",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/Modific/Modific.sublime-settings",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/xampp/htdocs/inspaedia/.env.example",
+		"/C/xampp/htdocs/inspaedia/public/manager/scripts/content-edit.php",
+		"/C/xampp/htdocs/inspaedia/.gitignore",
+		"/C/xampp/htdocs/inspaedia/public/manager/scripts/content-controller.php",
+		"/C/xampp/htdocs/inspaedia/public/manager/assets/css/style.css",
+		"/C/xampp/htdocs/inspaedia/public/manager/inc/classes/Upload.php",
+		"/C/xampp/htdocs/inspaedia/public/manager/inc/classes/DBH.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"my-trail-del",
+			"init",
+			"localeid",
+			"txtlink1",
+			"txtlink",
+			"id",
+			"txtLink",
+			"txtlink",
+			"txtLink",
+			"short",
+			"link1",
+			"txtlink",
+			"txtlin",
+			"txtlink",
+			"validator",
+			"return false",
+			"href=\"#",
+			"selContentRelation",
+			"form",
+			"</form",
+			"seltag",
+			"selTagRelation",
+			"f_image1_current",
+			"remove",
+			"fileremove",
+			"bd_image",
+			"imagecur",
+			"imageId",
+			"append",
+			"f_image3",
+			"f_image2",
+			"crop",
+			"s3_bu",
+			"failed",
+			"posting fail",
+			"enreset",
+			"f_image_current",
+			"seltagrelation",
+			"selTagRelation",
+			"error",
+			"    \n",
+			"get ",
+			"getins",
+			"modal",
+			"onmousewheel",
+			"notin",
+			"zoom",
+			"zoomout",
+			"zoomin",
+			"panning",
+			"panninh",
+			"zoom",
+			"max_value",
+			"max",
+			"onmousewheel",
+			"scroll",
+			"onMouseWheel:",
+			"mode",
+			"preview",
+			"img_preview",
+			"imag_preview",
+			"imageid",
+			"IMgcontainer",
+			"IMgcontainer\nimgContainer",
+			"output_filename"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "codeproject-curso.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
