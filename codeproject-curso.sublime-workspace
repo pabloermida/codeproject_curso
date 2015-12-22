@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"Client",
+				"ClientValidator"
+			],
+			[
+				"Clie",
+				"ClientRepository"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"Laravel",
+				"LaravelValidator"
+			],
+			[
+				"Code",
+				"CodeProjectRepositoryProvider	(CodeProjectRepositoryProvider.php)"
+			],
+			[
+				"CodeProject",
+				"CodeProject\\Repositories\\ClientRepository"
+			],
+			[
+				"Repo",
+				"Repositories	(ClientRepositoryEloquent.php)"
+			],
+			[
+				"Cli",
+				"ClientRepositoryEloquent"
+			],
+			[
 				"num",
 				"numSlide"
 			],
@@ -163,6 +195,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/Http/Controllers/ClientController.php",
+			"settings":
+			{
+				"buffer_size": 1545,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -171,17 +211,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 311.0,
-		"last_filter": "Snippet: ",
+		"height": 104.0,
+		"last_filter": "Package Control: ",
 		"selected_items":
 		[
 			[
-				"Snippet: ",
-				"Snippet: html"
+				"Package Control: ",
+				"Package Control: Remove Package"
 			],
 			[
-				"Package Control: ",
-				"Package Control: Install Package"
+				"Snippet: ",
+				"Snippet: html"
 			],
 			[
 				"pack",
@@ -220,7 +260,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 512.0
+		"width": 416.0
 	},
 	"console":
 	{
@@ -241,10 +281,31 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Project/Code/codeproject_curso"
+		"/C/Project/Code/codeproject_curso",
+		"/C/Project/Code/codeproject_curso/app",
+		"/C/Project/Code/codeproject_curso/app/Http",
+		"/C/Project/Code/codeproject_curso/app/Http/Controllers",
+		"/C/Project/Code/codeproject_curso/public"
 	],
 	"file_history":
 	[
+		"/C/Project/Code/codeproject_curso/app/Entities/Client.php",
+		"/C/Project/Code/codeproject_curso/app/Services/ClientService.php",
+		"/C/Project/Code/codeproject_curso/composer.json",
+		"/C/Project/Code/codeproject_curso/app/Validators/ClientValidator.php",
+		"/C/Project/Code/codeproject_curso/app/Entities/User.php",
+		"/C/Project/Code/codeproject_curso/app/Repositories/ClientRepositoryEloquent.php",
+		"/C/Project/Code/codeproject_curso/app/Repositories/ClientRepository.php",
+		"/C/Project/Code/codeproject_curso/app/Http/Controllers/ClientController.php",
+		"/C/Project/Code/codeproject_curso/config/app.php",
+		"/C/Project/Code/codeproject_curso/app/Providers/CodeProjectRepositoryProvider.php",
+		"/C/Project/Code/codeproject_curso/database/seeds/ClientTableSeeder.php",
+		"/C/Project/Code/codeproject_curso/database/seeds/DatabaseSeeder.php",
+		"/C/Project/Code/codeproject_curso/database/factories/ModelFactory.php",
+		"/C/Project/Code/codeproject_curso/app/Http/routes.php",
+		"/C/Project/Code/codeproject_curso/config/repository.php",
+		"/C/Project/Code/codeproject_curso/app/Models/User.php",
+		"/C/Project/Code/codeproject_curso/.env",
 		"/C/Project/Code/inspaedia/resources/views/app.blade.php",
 		"/C/Project/Code/inspaedia/app/Http/Controllers/UserController.php",
 		"/C/Project/Code/inspaedia/app/User.php",
@@ -355,13 +416,7 @@
 		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/Modific/Modific.sublime-settings",
 		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
 		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
-		"/C/xampp/htdocs/inspaedia/.env.example",
-		"/C/xampp/htdocs/inspaedia/public/manager/scripts/content-edit.php",
-		"/C/xampp/htdocs/inspaedia/.gitignore",
-		"/C/xampp/htdocs/inspaedia/public/manager/scripts/content-controller.php",
-		"/C/xampp/htdocs/inspaedia/public/manager/assets/css/style.css",
-		"/C/xampp/htdocs/inspaedia/public/manager/inc/classes/Upload.php",
-		"/C/xampp/htdocs/inspaedia/public/manager/inc/classes/DBH.php"
+		"/C/xampp/htdocs/inspaedia/.env.example"
 	],
 	"find":
 	{
@@ -461,8 +516,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/ClientController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1042,
+								1042
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -543,7 +629,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 277.0,
+	"side_bar_width": 370.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

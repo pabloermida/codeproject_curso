@@ -1,6 +1,8 @@
 <?php
 
 use CodeProject\Entities\Client;
+use CodeProject\Entities\Project;
+use CodeProject\Entities\User;
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;
 
@@ -15,7 +17,10 @@ class DatabaseSeeder extends Seeder
     {
         Model::unguard();
 
+        $this->call(UserTableSeeder::class);
         $this->call(ClientTableSeeder::class);
+        $this->call(ProjectTableSeeder::class);
+        $this->call(ProjectNoteTableSeeder::class);
 
         Model::reguard();
     }
